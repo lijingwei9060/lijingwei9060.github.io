@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on casoul</title>
+    <link>/tags/windows/</link>
+    <description>Recent content in windows on casoul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Nov 2020 15:15:12 +0800</lastBuildDate><atom:link href="/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows虚拟机迁移方法</title>
+      <link>/posts/windows_migration/</link>
+      <pubDate>Sat, 21 Nov 2020 15:15:12 +0800</pubDate>
+      
+      <guid>/posts/windows_migration/</guid>
+      <description>想法 windows的P2V和V2V一直都是难点，现有的迁移技术基本上都要求虚拟机关机，通过ISO引导进行迁移，不理想。 Acronis ovirt-p2v clonezilla 比较不错的产品： i2move英方的迁移工具，不需要关注虚拟化平台，直接mac</description>
+    </item>
+    
+  </channel>
+</rss>
